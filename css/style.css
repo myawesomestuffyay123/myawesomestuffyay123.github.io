@@ -1,0 +1,12 @@
+.my-card-title {
+	color: #42d1f4;
+}
+
+.text-italics {
+	font-style: italic;
+	text-decoration: underline;
+}
+
+body {
+	font-family: 'Pacifico', cursive;
+}
